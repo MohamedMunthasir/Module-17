@@ -5,7 +5,7 @@ To write a Python program to demonstrate the adjacency list representation of a 
 
 ## Algorithm
 
-1. **Create a Node Class**:
+1. **Create a Node Class**: 
    - Define a class `AdjNode` to represent each node in the adjacency list:
      - Store the vertex number.
      - Store a reference to the next adjacent node.
