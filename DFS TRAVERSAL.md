@@ -6,7 +6,7 @@ To write a Python program to print DFS (Depth-First Search) traversal from a giv
 
 ## Algorithm
 
-1. **Start the program**:
+1. **Start the program**: 
    - Create a graph using an adjacency list representation.
    - Add edges between vertices using the `addEdge()` function.
 
