@@ -5,7 +5,7 @@ To write a Python program to generate a graph for a given fixed degree sequence.
 
 
 ## Algorithm
-
+ 
 1. **Start the program**:
    - Read the degree sequence from the user input.
    - The degree sequence represents the number of edges connected to each vertex in the graph.
